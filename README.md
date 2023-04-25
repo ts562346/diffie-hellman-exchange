@@ -9,5 +9,5 @@ b. p = 7, g = 17
 c. p = 17, g = 13
 
 Notes: 
-a) Do not hard code the input values p and g. Accept it as user input via the console.
-b) Document your code with minimal comments at the least
+1) Do not hard code the input values p and g. Accept it as user input via the console.
+2) Document your code with minimal comments at the least
